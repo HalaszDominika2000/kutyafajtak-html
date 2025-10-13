@@ -1,3 +1,14 @@
 p {
     color: #4d0808;
 }
+
+table {
+  border: 1px solid #aa7777;     
+  border-collapse: collapse;     
+  margin: 0 auto;                
+}
+
+th, td {
+  border: 1px solid #aa7777;     
+  padding: 0.5rem;               
+}
