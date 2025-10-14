@@ -1,5 +1,18 @@
 body {
   background-image: url("Kepek/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: brown;
+}
+
+h1{
+  text-align: center;
+}
+
+a, a:visited, a:hover, a:active{ /* a:visited = a felhasználó már járt az oldalon, a:hover = egér a linken van, a:active = mikor rákattintunk a linkre */
+    color: darkslategrey;
+    text-decoration: none; 
+
 }
 
 p {
